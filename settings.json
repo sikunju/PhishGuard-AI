@@ -1,0 +1,5 @@
+{
+  "enable_dns_lookups": true,
+  "enable_connectivity_check": true,
+  "auto_open_reports_folder": true
+}

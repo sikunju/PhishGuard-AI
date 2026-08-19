@@ -1,0 +1,15 @@
+id,timestamp,scan_type,target,risk_score,classification,ml_score,ml_label
+10,2026-08-19T06:00:25.774739+00:00,url,"http://login-microsoft.example/
+http://microsoft-security.example/verify
+http://paypal-account.example/login
+http://secure-bank.example/update
+http://account-verification.example/password",78.9,HIGH RISK,0.955,1
+9,2026-08-19T05:59:51.842165+00:00,email,Your corporate password expires today,44.0,LOW RISK,,
+8,2026-08-19T05:59:46.158083+00:00,email,Delivery attempt failed — Action required,12.0,SAFE,,
+7,2026-08-19T05:59:27.537570+00:00,email,Delivery attempt failed — Action required,12.0,SAFE,,
+6,2026-08-19T05:59:05.659174+00:00,email,URGENT: Suspicious transaction detected,44.0,LOW RISK,,
+5,2026-08-19T05:56:55.360860+00:00,email,(not provided),12.0,SAFE,,
+4,2026-08-19T05:56:36.759178+00:00,email,(not provided),0.0,SAFE,,
+3,2026-08-19T05:56:30.777491+00:00,email,(not provided),0.0,SAFE,,
+2,2026-08-19T05:54:30.950773+00:00,url,https://microsoft-login.example.com/security,40.9,LOW RISK,0.66,1
+1,2026-08-19T05:54:02.862538+00:00,url,https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started?utm_source=chatgpt.com,16.4,SAFE,0.175,0
