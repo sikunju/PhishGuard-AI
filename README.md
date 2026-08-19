@@ -6,6 +6,16 @@ A professional, offline-first, 100% free and open-source Windows desktop applica
 
 > Author: **sikunju**
 > This project is intended for defensive cybersecurity education, research, and portfolio demonstration.
+> 
+**Project Showcase & Disclaimer**
+
+This repository contains the **complete project files** created and tested by me for **personal learning, skill development, and portfolio showcase purposes**.
+
+The project demonstrates my ongoing **skills improvement and practical experience**. It is **not intended for commercial use**.
+
+I have personally tested the project for my intended use. Users are responsible for how they use, modify, or deploy this project. **I do not take responsibility for any unethical, illegal, or unauthorized use of the project.**
+
+Please use this project responsibly and only in environments where you have proper authorization.
 
 ---
 
